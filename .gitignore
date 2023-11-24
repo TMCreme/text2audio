@@ -1,0 +1,10 @@
+package/*
+
+.env
+__pycache__
+
+.terraform*
+
+*.zip
+
+*.tfstate*
