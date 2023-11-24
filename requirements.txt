@@ -1,0 +1,4 @@
+fastapi
+audioldm
+magnum
+sh
